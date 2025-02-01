@@ -1,6 +1,6 @@
 {
-	"Name": "RS1 Tournament",
-	"Version": 1738253085,
+	"Name": "Rasza S1 Balancing",
+	"Version": 1738374169,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -144,6 +144,10 @@
 				[
 					"183",
 					"184"
+				],
+				[
+					"177",
+					"204"
 				]
 			]
 		},
@@ -534,7 +538,10 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						2,
+						11
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -1091,8 +1098,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				4,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
@@ -1584,7 +1591,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				10
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
