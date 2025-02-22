@@ -1,6 +1,6 @@
 {
 	"Name": "Rasza S1 Balancing",
-	"Version": 1738374169,
+	"Version": 1740232670,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -88,6 +88,7 @@
 				"171",
 				"175",
 				"180",
+				"264",
 				"185",
 				"186",
 				"265",
@@ -163,12 +164,7 @@
 				"225"
 			],
 			"SurvivorComboPerkBans": [],
-			"KillerComboPerkBans": [
-				[
-					"160",
-					"210"
-				]
-			]
+			"KillerComboPerkBans": []
 		},
 		{
 			"Name": "Tier 2",
@@ -917,7 +913,10 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				217
+				217,
+				212,
+				215,
+				216
 			],
 			"ItemWhitelist": [
 				0,
@@ -2422,7 +2421,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"8",
-				"12"
+				"9"
 			],
 			"BalanceTiers": [
 				0,
@@ -2567,7 +2566,11 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"170",
+				"178",
+				"220"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
