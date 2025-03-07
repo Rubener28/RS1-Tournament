@@ -1,6 +1,6 @@
 {
 	"Name": "Rasza S1 Balancing",
-	"Version": 1740232670,
+	"Version": 1741341570,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -62,6 +62,7 @@
 				"253",
 				"120",
 				"122",
+				"124",
 				"254",
 				"130"
 			],
@@ -1324,7 +1325,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"65"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
