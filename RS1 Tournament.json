@@ -1,6 +1,6 @@
 {
 	"Name": "Rasza S1 Balancing",
-	"Version": 1741341570,
+	"Version": 1742387091,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -185,12 +185,7 @@
 				"128"
 			],
 			"KillerIndvPerkBans": [],
-			"SurvivorComboPerkBans": [
-				[
-					"246",
-					"101"
-				]
-			],
+			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
 		},
 		{
@@ -1050,7 +1045,12 @@
 				"38",
 				"58"
 			],
-			"SurvivorComboPerkBans": [],
+			"SurvivorComboPerkBans": [
+				[
+					"101",
+					"246"
+				]
+			],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
@@ -1346,7 +1346,10 @@
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1507,7 +1510,10 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"109",
+				"112"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2437,7 +2443,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"109"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
