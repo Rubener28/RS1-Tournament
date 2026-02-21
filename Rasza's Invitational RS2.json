@@ -1,6 +1,6 @@
 {
-	"Name": "Rasza's Invitational RS2",
-	"Version": 1771586875,
+	"Name": "RS2 balancing v2",
+	"Version": 1771665269,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -51,6 +51,7 @@
 				"59",
 				"289",
 				"62",
+				"64",
 				"66",
 				"67",
 				"269",
@@ -73,6 +74,7 @@
 				"105",
 				"106",
 				"108",
+				"110",
 				"263",
 				"260",
 				"114",
@@ -83,7 +85,6 @@
 				"287",
 				"120",
 				"122",
-				"124",
 				"304",
 				"254",
 				"130"
@@ -179,6 +180,7 @@
 			"KillerIndvPerkBans": [
 				"163",
 				"170",
+				"178",
 				"151"
 			],
 			"SurvivorComboPerkBans": [],
@@ -480,7 +482,16 @@
 				"124",
 				"128"
 			],
-			"SurvivorComboPerkBans": [],
+			"SurvivorComboPerkBans": [
+				[
+					"38",
+					"121"
+				],
+				[
+					"38",
+					"71"
+				]
+			],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
@@ -966,7 +977,6 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
 				"34"
 			],
 			"BalanceTiers": [
@@ -1518,7 +1528,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"65"
+				"112"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1640,7 +1650,8 @@
 				"132",
 				"142",
 				"181",
-				"220"
+				"220",
+				"297"
 			],
 			"KillerComboPerkBans": [
 				[
@@ -2784,7 +2795,12 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
-			"KillerComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"160",
+					"210"
+				]
+			],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
