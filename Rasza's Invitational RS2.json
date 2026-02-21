@@ -1,6 +1,6 @@
 {
-	"Name": "RS2 balancing v2",
-	"Version": 1771665269,
+	"Name": "RS2 balancing Final",
+	"Version": 1771674437,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -134,6 +134,7 @@
 				"232",
 				"235",
 				"238",
+				"293",
 				"257",
 				"242"
 			],
@@ -446,12 +447,11 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5
 			],
 			"KillerOfferings": [
-				0,
-				1,
 				5
 			]
 		},
@@ -759,7 +759,10 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				138,
-				139
+				139,
+				125,
+				134,
+				132
 			],
 			"ItemWhitelist": [
 				0,
@@ -1649,7 +1652,6 @@
 			"KillerIndvPerkBans": [
 				"132",
 				"142",
-				"181",
 				"220",
 				"297"
 			],
@@ -1657,6 +1659,10 @@
 				[
 					"160",
 					"210"
+				],
+				[
+					"181",
+					"184"
 				]
 			],
 			"SurvivorIndvPerkBans": [],
@@ -1965,12 +1971,11 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				2,
 				5
 			],
 			"KillerOfferings": [
-				0,
-				1,
 				5
 			]
 		},
@@ -2539,10 +2544,8 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				688,
-				689,
 				697,
-				698,
-				693
+				698
 			],
 			"ItemWhitelist": [
 				0,
@@ -2575,6 +2578,7 @@
 				}
 			},
 			"SurvivorOfferings": [
+				2,
 				5
 			],
 			"KillerOfferings": [
@@ -2645,11 +2649,12 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
 				2,
 				5
 			],
 			"KillerOfferings": [
+				0,
+				1,
 				5
 			]
 		},
